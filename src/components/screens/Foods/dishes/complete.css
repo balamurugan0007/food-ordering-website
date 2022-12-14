@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+
+#pic-card{
+    width: 300px;
+    height: 420px;
+    -webkit-box-shadow: 9px 14px 20px 0px rgba(135,130,135,0.6);
+-moz-box-shadow: 9px 14px 20px 0px rgba(135,130,135,0.6);
+box-shadow: 9px 14px 20px 0px rgba(135,130,135,0.6);
+border-radius: 20px;
+margin-top: 10px;
+margin-bottom: 20px;
+}
+#dishes-pic{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px 20px 0 0;
+   
+}
+#pic-headings{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#dishes-rating{
+    display: flex;
+    margin: 10px;
+}
+#star-icon{
+    margin-top: 5px;
+}
+#dishes-name{
+    font-family: Breeserif;
+    color: #D91E31;
+    
+   
+}
+#dishes-price{
+    margin-top: -20px;
+    margin-left:35px;
+}
+#dishes-order-button{
+  margin-left:170px
+}
+#dishes-description{
+    margin-left: 30px;
+
+}
+
+#dishes-row{
+    margin-top: 20px;
+}

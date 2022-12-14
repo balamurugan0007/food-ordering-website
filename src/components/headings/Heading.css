@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.nav ul{
+    display: flex;
+    margin-right: 40px;
+
+
+}
+.nav ul li{
+    margin:10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.nav h2{
+    color:black;
+    font-family: serif;
+    margin-left: 40px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+
+}
+.nav span{
+    color: #EC1428;
+}
+
+.nav ul li a:hover{
+    color: #EC1428;
+    border-bottom: 10px;
+}

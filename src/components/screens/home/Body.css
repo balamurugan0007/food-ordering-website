@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kanit:ital@1&family=Poppins:wght@500&display=swap');
+
+
+.img-responsive-1{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+.img-responsive{
+   
+    
+    height: 100vh;
+    position: relative;
+    overflow-y: hidden;
+    filter: brightness(50%);
+}
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+#banner-para{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 140px;
+    opacity: .7;
+   
+}
+#banner{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    font-family: kanit;
+    font-size: 70px;
+    color: whitesmoke;
+    border-style: outset;
+    opacity: .9;
+    
+}
+.img{
+  
+   margin-left: 80px;
+   width: 450px;
+   
+}
+
+.para h4{
+    opacity: .8;
+    margin-top: 10px;
+}
+.para p{
+    margin-top: 10px;
+}
+
+.jion{
+  
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    background-color: #00D875;
+
+}
+.jion img{
+    width: 100%;
+    height: 30vh;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+
+#pic{
+    width: 250px;
+    margin: 10px;
+   
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#head{
+    color:black;
+    font-family: Roboto;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#des{
+    margin-top: 20px;
+}
+#text{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+#client{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    
+}
+
+#join{
+    margin: 10px;
+    width: 80px;
+    
+}
+
+#comment{
+    margin:15px;
+
+}
+
+#feed-submit{
+   width:200px;
+   margin-bottom: 20px;
+}
+
+#form{
+    border-style:groove;
+    margin: 30px;
+    
+}

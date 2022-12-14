@@ -1,0 +1,23 @@
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+}
+#colm{
+    margin:30px;
+    border: 10px;
+}
+#order-pic{
+   width:700px;
+   height: 400px;
+   margin:40px;
+  
+   border-radius: 30px;
+   -webkit-box-shadow: 9px 14px 20px 0px rgba(135,130,135,0.6);
+-moz-box-shadow: 9px 14px 20px 0px rgba(135,130,135,0.6);
+box-shadow: 9px 14px 20px 0px rgba(135,130,135,0.6);
+ 
+}

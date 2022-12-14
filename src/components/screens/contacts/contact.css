@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kanit:ital@1&family=Poppins:wght@500&display=swap');
+
+#user-io{
+    width: 350px;
+    height: 350px;
+    border-radius: 25px;
+}
+#name{
+    font-family: poppins;
+}
+#dev-info{
+    display: flex;
+    opacity: .8;
+    font-size: 13px;
+   justify-content: center;
+   margin-right: 20px;
+   margin: 9px;
+  
+}
+#work{
+    opacity: .85;
+    font-family: kanit;
+    font-size: 17px;
+}
